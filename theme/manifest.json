@@ -1,0 +1,13 @@
+{
+    "update_url": "https://clients2.google.com/service/update2/crx", 
+    "manifest_version": 2, 
+    "theme": {
+        "images": {
+            "theme_tab_background": "images/theme_tab_background.png", 
+            "theme_ntp_background": "images/theme_ntp_background.jpg"
+        }
+    }, 
+    "name": "DoubleShip", 
+    "version": "0.1.0", 
+    "description": ""
+}
